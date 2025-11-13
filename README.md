@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jo
-<h3 align="center">AI Newby
+<h1 align="center">Hi 👋, I'm Jo</h1>
+<h3 align="center">Former B2B Technical Sales → Now learning AI to build smarter workflows.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jo-baek&label=Profile%20views&color=0e75b6&style=flat" alt="jo-baek" /> </p>
 
 - 🔭 I’m currently working on **AI bootcamp**
 
+- 📫 How to reach me **bmj9065@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
