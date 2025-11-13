@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **AI bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jo-Baek](https://github.com/Jo-Baek)
-
 - 📫 How to reach me **bmj9065@gmail.com**
 
 - ⚡ Fun fact **I used to explain valves to engineers… Now I'm trying to explain machine learning to *myself*. 😄**
