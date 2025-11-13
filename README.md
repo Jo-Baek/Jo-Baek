@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jo - an AI newby 🚀</h1>
-<h3 align="center">Former B2B Technical Sales → Now learning AI to build smarter workflows.</h3>
+<h1 align="center">Hi 👋, I'm Jo
+<h3 align="center">AI Newby
 
 - 🔭 I’m currently working on **AI bootcamp**
-
-- ⚡ Fun fact **I used to explain valves to engineers… Now I'm trying to explain machine learning to *myself*. 😄**
 
 <p align="left">
 </p>
