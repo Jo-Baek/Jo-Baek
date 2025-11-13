@@ -3,11 +3,8 @@
 
 - 🔭 I’m currently working on **AI bootcamp**
 
-- 📫 How to reach me **bmj9065@gmail.com**
-
 - ⚡ Fun fact **I used to explain valves to engineers… Now I'm trying to explain machine learning to *myself*. 😄**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
